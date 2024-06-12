@@ -10,3 +10,5 @@
 <P>I DO DATA CLEANING.
   
 LIKE THIS:"https://www.contextures.com/images/tips/findreplace02.png"</P>
+<p>Then I Take a Table To Show Data IN A Manner and change the colour aur style of table.</p>
+<P>LIKE THIS:"https://cdn.ablebits.com/_img-blog/table-format/remove-table-formatting.png"</P>
