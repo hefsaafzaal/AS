@@ -6,7 +6,7 @@
 <h3>1.DATA CLEANING </h3>
 <h4>2.DATA ANALYTICS </h4>
 <h5>3.DATA MANAGEMANT</h5>
-<P>FIRSTLY</P>
+<h1>FIRSTLY</h1>
 <P>I DO DATA CLEANING.
   
 LIKE THIS:"https://www.contextures.com/images/tips/findreplace02.png"</P>
