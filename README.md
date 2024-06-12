@@ -17,3 +17,8 @@ LIKE THIS:"https://www.contextures.com/images/tips/findreplace02.png"</P>
   like this:</P>
 
 <p>!(https://github.com/hefsaafzaal/AS/assets/171770988/6fe829eb-8864-4e51-856f-ec3df0051011)</p>
+<p>Then change the style of chart and make some slicer from section analytics  </p>
+<P>AND connect all slicer with chart In this Ways a dashboard are ready. </P>
+<p>like this"https://github.com/hefsaafzaal/AS/assets/171770988/1aa9b5dc-7b54-4cd8-b003-556d473e870a"</p>
+
+
